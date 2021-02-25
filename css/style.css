@@ -465,6 +465,7 @@ footer .footer-top .box ul li {
     border: 2px solid #00de83;
     padding: 7px 0px 5px 10px;
     background: transparent;
+    color: #ffffff;
 }
 .bottom-footer .container .input-area input[type="submit"] {
     outline: none;
